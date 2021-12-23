@@ -1,2 +1,5 @@
-# tribute-page
-Proyectos de diseño web responsivo para obtener la certificación Diseño Web Responsivo en FreeCodeCamp
+# Página tributo
+Proyectos de diseño web responsivo como requisito para la certificación Diseño Web Responsivo en FreeCodeCamp.
+
+# Stack
+HTML básico - Css básico - Diseño visual - Accesibilidad - Diseño responsivo - Css Flexbox
