@@ -1,5 +1,5 @@
 # Proyecto #1 - Página tributo
-Proyecto de diseño web como requisito para la certificación Diseño Web Responsivo en FreeCodeCamp.
+Proyecto #1 - prototipo de diseño para la obtención de la certificación en Diseño Web Responsivo en FreeCodeCamp.
 
 # Stack
 HTML básico - Css básico & Flexbox - Diseño visual - Accesibilidad - Diseño responsivo
